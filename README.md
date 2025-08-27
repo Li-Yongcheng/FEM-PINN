@@ -1,7 +1,9 @@
 # FEM-PINN
 
 ## Introduction
-This repository contains the training code for the door frame example in the paper "StructureGraph: A universal performance evaluation method for engineering structures via heterogeneous graph neural network." The required environment and dataset can be downloaded from Google Drive.
+This repository contains the training code for the door frame example in the paper "FEM-PINN: Integrating finite element method and Physics-
+Informed neural network for performance prediction of engineering structures via graph neural
+network." The required environment and dataset can be downloaded from Google Drive.
 <p align="center">
   <img src="https://github.com/Li-Yongcheng/StructureGraph/blob/main/StructureGraph.png" />
 </p>
