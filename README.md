@@ -5,7 +5,7 @@ This repository contains the training code for the door frame example in the pap
 Informed neural network for performance prediction of engineering structures via graph neural
 network." The required environment and dataset can be downloaded from Google Drive.
 <p align="center">
-  <img src="https://github.com/Li-Yongcheng/StructureGraph/blob/main/StructureGraph.png" />
+  <img src="https://github.com/Li-Yongcheng/FEM-PINN/blob/main/FEM-PINN.png" />
 </p>
 
 ## Have a try!
